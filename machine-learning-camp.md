@@ -55,7 +55,7 @@ http://p.dcsapi.com/c2ZtYnVqd2ZRYnVpJD4kMzEyOTAyMjAxMzBOVWh5TlVCek5VQntOVVp5Tnta
 - 实验-sklearn-user guide 1.10.1-中文http://sklearn.apachecn.org/cn/0.19.0/modules/tree.html 
 - 实验-sklearn-user guide 1.10.1-英文https://scikit-learn.org/stable/modules/tree.html
 
-## 第二周
+## 第三周
 
 - 本周我们要学习的主要内容为西瓜书的第6章 支持向量机，在深度学习未火之前，支持向量机一直都是学术界和工业界的热点，这得益其优秀的性能，特别是面对数据规模比较小的时候，不同简单的逻辑回归，支持向量机能够构建出数据之间的非线性关系。同时，在机器学习的面试过程中，支持向量机一直都是热点问题，因为这部分能够对同学的数学功底进行考察，所以请大家认真对待这章的关键公式。学习完本章后，希望大家能够理清两个逻辑思维：一个是，支持向量机的原始公式是怎么由实际问题产生，这涉及到的是算法灵魂部分，希望大家认真思考；第二个就是数学推导，原始公式如何推导至其对偶形式的。
 ### 1. 第一节学习内容
@@ -81,7 +81,7 @@ http://p.dcsapi.com/c2ZtYnVqd2ZRYnVpJD4kMzEyOTAyMjAxMzBOVWh5TlVCek5VQntOVVp5Tnta
 - 本周作业提醒！！！ 作业名称：写出SVM原始问题转换至其对偶问题的数学推导过程 作业提交时间：11/22 任务提交形式：PPT截图或手写拍照,打卡提交.
 - 实验-sklearn-user guide 1.4.1-英文https://scikit-learn.org/stable/modules/svm.html
 - 实验-sklearn-user guide 1.4.1-中文http://sklearn.apachecn.org/cn/0.19.0/modules/svm.html
-## 第三周
+## 第四周
 
 - 本周我们要学习的主要内容为西瓜书的第7章贝叶斯分类器。本章最为重要的内容就是极大似然估计和朴素贝叶斯分类器。其中极大似然法贯穿我们整个机器学习和深度学习的理论中，是很多学习算法的基础，所以大家比如掌握。另外朴素贝叶斯因为其优秀的速度优势，比如过去的判别邮件是否是垃圾邮件的任务中，一直扮演着重要决策，所以大家应该了解其思想。7.1节的内容太过于抽象，无法理解是很正常的，同学们不要纠结，直接放弃就好，后续的章节才是重点。
 这周的内容会简单一些，因为大家经历了SVM的折磨，希望大家可以这周轻松一些，同时也可对之前没有掌握好的的内容，进行重点补充学习。
